@@ -23,7 +23,6 @@
 
 <body>
     <?php require_once "inc/navbar.php"; ?>
-
     <div class="container-fluid">
         <div class="row">
             <div class="col-2">
@@ -58,10 +57,6 @@
             </div>
         </div>
     </div>
-    <!-- <header class="contact">
-    </header> -->
-
     <?php require_once "inc/footer.php"; ?>
 </body>
-
 </html>

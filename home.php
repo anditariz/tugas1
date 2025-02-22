@@ -80,5 +80,4 @@
     <?php require_once "inc/footer.php"; ?>
     <!-- akhir footer -->
 </body>
-
 </html>
