@@ -84,8 +84,6 @@
                 <div class="card-body">
                     <h5 class="card-title">About Me!</h5>
                     <p class="card-text">I am an Education graduate who transitioned into a career as a programmer with a strong passion for learning. Currently, I am undergoing training at PPKD Jakarta Pusat to sharpen my skills in the tech industry. This journey is a significant step in combining my passion for education and technology to create a more innovative future.</p>
-                    <!-- <p class="card-text">Currently, I am undergoing training at PPKD Jakarta Pusat to sharpen my skills in the tech industry. This journey is a significant step in combining my passion for education and technology to create a more innovative future.</p> -->
-                    <!-- <p class="card-text">This journey is a significant step in combining my passion for education and technology to create a more innovative future.</p> -->
                     <iframe width="500" height="300" src="https://www.youtube.com/embed/gKLW1QO5R7U?si=-eK6T9ImSG2M_Q8f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                         <figure class="text-end">
                             <blockquote class="blockquote">
