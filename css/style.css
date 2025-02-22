@@ -8,49 +8,43 @@
 
 body{
     min-width: none;
-    min-height: 500px;
+    min-height: 200px;
     background-color: var(--primary);
+    font-family: "DM Serif Text", serif;
 }
 /* navbar */
-.container{
-    font-family: "Henny Penny", serif;
-}
 .jumbotron{
     padding-top: 2rem;
     background-color: var(--green)
 }
-h1{
-    font-family: "Delius Swash Caps", serif;
-}
-h2{
-    font-family: "Fuzzy Bubbles", serif;
-}
+
 .kemampuan h5{
     text-underline-position: below;
     border-radius: 3px;    
-    font-family: "Fuzzy Bubbles", serif;
 }
 .kemampuan ul{
     border: 1px;
-    font-family: "Fuzzy Bubbles", serif;
+
 }
 footer{
     position: fixed;
     bottom: 0px;
     background-color: var(--dark);
     width: 100%;
-    color: white;
+    color: black;
     padding: 7px;
     font: "Alumni Sans Pinstripe", serif;
     text-align: center;
 }
-.contact{
-    font-family: "Knewave", serif;
-}
+
 .content-form{
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
     display: flexbox;
     flex-direction: column;
+}
+/* About */
+.card-body{
+    background-color: rgb(169, 179, 136);
 }
