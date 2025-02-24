@@ -1,0 +1,64 @@
+:root {
+    --primary: #FEFAE0;
+    --dark: #B99470;
+    --light: #A3D1C6;
+    --green: #A9B388;
+    --glow-color: rgb(95, 111, 82);
+}
+
+body{
+    /* min-width: none;
+    min-height: 200px; */
+    background-color: var(--primary);
+    font-family: "DM Serif Text", serif;
+}
+/* navbar */
+
+.kemampuan h5{
+    text-underline-position: below;
+    border-radius: 3px;    
+}
+.kemampuan ul{
+    border: 1px;
+
+}
+footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: var(--dark);
+    width: 100%;
+    color: black;
+    padding: 7px;
+    font: "Alumni Sans Pinstripe", serif;
+    text-align: center;
+}
+
+.content-form{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flexbox;
+    flex-direction: column;
+}
+/* About */
+.card-body{
+    background-color: rgb(169, 179, 136);
+}
+.svg{
+    position: relative;
+    top: 20px;
+}
+
+/* css loginpage */
+.loginpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100hv;
+    background: #FEFAE0;
+}
+
+.loginpage h1{
+    font-size: 36px;
+    text-align: center;
+}
